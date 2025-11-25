@@ -1,20 +1,5 @@
 [
   {
-    "id": "MC633693",
-    "service": "Bedroom Ceilings",
-    "customerName": "Ahmed",
-    "customerEmail": "ahmedumerahmedumer52@gmail.com",
-    "whatsappNumber": "+92 3348287232",
-    "ceilingName": "Hi",
-    "budget": 10000,
-    "advance": 5000,
-    "details": "Hi for testing",
-    "status": "completed",
-    "date": "2025-11-24T15:20:33.693Z",
-    "paymentVerified": true,
-    "updatedAt": "2025-11-24T15:22:16.799Z"
-  },
-  {
     "id": "MC538032",
     "service": "Bedroom Ceilings",
     "customerName": "Saad",
